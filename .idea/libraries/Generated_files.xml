@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/client/users/users.js" />
+        <item url="file://$PROJECT_DIR$/client/users/users.js" />
+        <item url="file://$PROJECT_DIR$/client/controller/appCtrl.js" />
+        <item url="file://$PROJECT_DIR$/client/lib/app.js" />
+        <item url="file://$PROJECT_DIR$/client/users/userDataservice.js" />
+        <item url="file://$PROJECT_DIR$/client/users/userListController.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/client/lib/users.js" />
+      <root url="file://$PROJECT_DIR$/client/lib/users.js" />
+      <root url="file://$PROJECT_DIR$/client/controller/appCtrl.js" />
+      <root url="file://$PROJECT_DIR$/client/lib/app.js" />
+      <root url="file://$PROJECT_DIR$/client/users/userDataservice.js" />
+      <root url="file://$PROJECT_DIR$/client/users/userListController.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
